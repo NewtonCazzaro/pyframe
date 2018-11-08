@@ -1,8 +1,8 @@
 # pyframe
 
-# By Newton Cazzaro & Nir Herscovici
+# By Newton Cazzaro
 
-# Date: 06/30/2018
+# Date: 11/7/2018
 #
 # Version:     Pyframe 1.0 - Horizontal implementation
 #
