@@ -1,6 +1,6 @@
 # pyframe
 
-## by Newton Cazzaro & Nir Herscovici
+## by Newton Cazzaro
 
 Date: 06/26/2018
 
